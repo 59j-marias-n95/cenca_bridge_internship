@@ -1,0 +1,19 @@
+Source: B228
+fits file: member.uid___A001_X2d20_X3597.B228_sci.spw17_19_21_23.cont.I.pbcor.fits [1]
+central frequency: 202.9923 GHz [1]
+frequency band: 5 [2]
+Angular resolution: 0.019 arcsec [1]
+
+fits file: member.uid___A001_X2df7_X5f4.B228_sci.spw25_27_29_31.cont.I.pbcor.fits [1]
+central frequency: 397.9588 GHz [1]
+frequency band: 8 [2]
+Angular resolution: 0.022 arcsec [1]
+
+fits file: member.uid___A001_X2d20_X3599.B228_sci.spw17_19_21_23.cont.I.pbcor.fits [1]
+central frequency: 202.0269 GHz [1]
+frequency band: 5 [2]
+Angular resolution: 0.16 arcsec [1]
+
+References: 
+[1] fits headers for source B228.
+[2] European Southern Observatory. ALMA receiver bands. Source: https://www.eso.org/public/teles-instr/alma/receiver-bands/. Last checked: 10/01/2023. 

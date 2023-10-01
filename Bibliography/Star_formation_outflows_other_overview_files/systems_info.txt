@@ -1,0 +1,25 @@
+System B335:
+Name of the source: Barnard 335
+Class of the source: {Class 0 {[Bea2023], [SE2002]}}
+Mass of the source: {0.05 solar masses to 0.15 solar masses [Bea2023]}
+Distance to the source: {100 pc [Bea2019], 250 pc [Hea1988], 164.5 pc [Bea2023]}
+Star forming region: //I haven't been able to find this information, but rather papers that claim B335 is an isolated region, is it a star formation region on its own?//
+Alternate names: {{{LDN 663, [CB88] 199} [Simbad]}, {{IRAS 19345+0727, L663} {[SE2002], [Hea1988]}}}
+
+System B228:
+Name of the source: Barnard 228
+Class of the source: {Class 0 {[SE2002], [F2023]}}
+Mass of the source: {0.007 solar masses [F2023], 0.004 solar masses [Bea2016]}
+Distance to the source: {156 pc [F2023], 155 pc [Bea2016]}
+Star forming region: Lupus star-forming complex [V2021]
+Alternate names: {[LM99] 139, [LM99] DC 3388+165-5} [Simbad], IRAS15398-3359 {[F2023], [SE2002], [Bea2016]}
+
+References: 
+[Bea2016] Bjerkeli et al, 2016. A young bipolar outflow from IRAS15398-3359; 
+[Bea2019] Bjerkeli et al, 2019. Kinematics around the B335 protostar down to au scales; 
+[Bea2023] Bjerkeli et al, 2023. Possible episodic infall towards a compact disk in B335; 
+[F2023] Farideh et al, 2023. The kinematics of the magnetized protostellar core IRAS15398-3359; 
+[Hea1988] Hirano et al, 1988. Bipolar outflow in B335; 
+[SE2002] Sherley & Evans, 2002. Tracing the Mass during Low-Mass Star Formation. III. Models of the Submillimeter Dust Continuum Emission from Class 0 Protostars; 
+[Simbad] http://simbad.u-strasbg.fr/;
+[V2021] Vazzano et al, 2021. Outflows, envelopes, and disks as evolutionary indicators in Lupus young stellar objects; 
