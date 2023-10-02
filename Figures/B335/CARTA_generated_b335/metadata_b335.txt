@@ -2,18 +2,19 @@ Source: B335
 fits file: member.uid___A001_X2d20_X35a9.B335_sci.spw17_19_21_23.cont.I.pbcor.fits [1]
 central frequency: 202.9769 GHz [1]
 frequency band: 5 [2]
-Angular resolution: 0.026 arcsec [1]
+Angular resolution: 0.0000000977 radians [3]
 
 fits file: member.uid___A001_X2df7_X600.B335_sci.spw25_27_29_31.cont.I.pbcor.fits [1]
 central frequency: 397.9818 GHz [1]
 frequency band: 8 [2]
-Angular resolution: 0.026 arcsec [1]
+Angular resolution: 0.0000000498 radians [3]
 
 fits file: member.uid___A001_X2df7_X602.B335_sci.spw25_27_29_31.cont.I.pbcor.fits [1]
 central frequency: 397.8998 GHz [1]
 frequency band: 8 [2]
-Angular resolution: 0.13 arcsec [1]
+Angular resolution: 0.0000000498 radians [3]
 
 References: 
 [1] fits headers for source B335.
 [2] European Southern Observatory. ALMA receiver bands. Source: https://www.eso.org/public/teles-instr/alma/receiver-bands/. Last checked: 10/01/2023. 
+[3] NRAO. ALMA Cycle 10 Technical Handbook. Source: https://almascience.nrao.edu/documents-and-tools/cycle10/alma-technical-handbook. Last checked: 10/02/2023.
