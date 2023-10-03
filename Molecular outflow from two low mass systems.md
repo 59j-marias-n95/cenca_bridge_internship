@@ -29,7 +29,7 @@ Continuum spectrum data from recent ALMA's observation is being analyzed through
 ## Bibliographical resources used as of October 1st, 2023
 Bjerkeli et al (2016). *A young bipolar outflow from IRAS 15398-3359.*
 
-Bjerkeli et al (2019). *Kinematics around the B335 protostar down to au scales. *
+Bjerkeli et al (2019). *Kinematics around the B335 protostar down to au scales.*
 
 Bjerkeli et al (2023). *Possible episodic infall towards a compact disk in B335.*
 
